@@ -81,6 +81,6 @@ int main ()
 
 # 参考资料
 
-- QuickLZ官方手册：[manual](docs/manual.html)
+- QuickLZ官方手册：[manual](http://www.quicklz.com/manual.html)
 
 
